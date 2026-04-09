@@ -14,14 +14,14 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 1
-* 🟢 Easy: 1
+* ✅ Total Problems Solved: 2
+* 🟢 Easy: 2
 * 🟡 Medium: 0
 * 🔴 Hard: 0
 
 
 ## Topics Covered
-
+Arrays
 
 
 
@@ -30,6 +30,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day   | Problem | Difficulty | Topic  |
 | ----- | ------- | ---------- | ------ |
 | Day 1 | Two Sum | Easy       | Arrays |
+| Day 1 | Rev.Arr | Easy       | Arrays |
+
 
 
 
