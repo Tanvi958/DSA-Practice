@@ -9,12 +9,13 @@ I am consistently solving problems to improve my problem-solving skills and prep
 ## Platform
 
 * LeetCode
+* HackerRank
 
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 0
-* 🟢 Easy: 0
+* ✅ Total Problems Solved: 1
+* 🟢 Easy: 1
 * 🟡 Medium: 0
 * 🔴 Hard: 0
 
