@@ -14,14 +14,15 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 2
+* ✅ Total Problems Solved:3
 * 🟢 Easy: 2
-* 🟡 Medium: 0
+* 🟡 Medium: 1
 * 🔴 Hard: 0
 
 
 ## Topics Covered
 Arrays
+Two Pointer(TwoP.)
 
 
 
@@ -31,6 +32,8 @@ Arrays
 | ----- | ------- | ---------- | ------ |
 | Day 1 | Two Sum | Easy       | Arrays |
 | Day 1 | Rev.Arr | Easy       | Arrays |
+| Day 2 | LSWRC   | Medium     | TwoP.  |
+
 
 
 
