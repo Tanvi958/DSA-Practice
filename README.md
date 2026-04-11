@@ -14,25 +14,28 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved:3
+* ✅ Total Problems Solved:4
 * 🟢 Easy: 2
-* 🟡 Medium: 1
+* 🟡 Medium: 2
 * 🔴 Hard: 0
 
 
 ## Topics Covered
 Arrays
 Two Pointer(TwoP.)
+Linked List (LL)
 
 
 
 ## 📅 Daily Log
 
-| Day   | Problem | Difficulty | Topic  |
-| ----- | ------- | ---------- | ------ |
-| Day 1 | Two Sum | Easy       | Arrays |
-| Day 1 | Rev.Arr | Easy       | Arrays |
-| Day 2 | LSWRC   | Medium     | TwoP.  |
+|  Day  |                 Problem                       | Difficulty | Topic  |
+| ----- | --------------------------------------------- | ---------- | ------ |
+| Day 1 | Two Sum                                       | Easy       | Arrays |
+| Day 1 | Arrays - DS (HackerRank)                      | Easy       | Arrays |
+| Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.  |
+| Day 3 | Delete Node in LL                             | Medium     | LL.    |
+
 
 
 
