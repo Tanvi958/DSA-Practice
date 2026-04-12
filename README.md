@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved:4
-* 🟢 Easy: 2
+* ✅ Total Problems Solved:5
+* 🟢 Easy: 3
 * 🟡 Medium: 2
 * 🔴 Hard: 0
 
@@ -27,6 +27,7 @@ Linked List (LL)
 
 
 
+
 ## 📅 Daily Log
 
 |  Day  |                 Problem                       | Difficulty | Topic  |
@@ -35,6 +36,8 @@ Linked List (LL)
 | Day 1 | Arrays - DS (HackerRank)                      | Easy       | Arrays |
 | Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.  |
 | Day 3 | Delete Node in LL                             | Medium     | LL.    |
+| Day 4 | Valid Anagram                                 | Easy       | Arrays |
+
 
 
 
