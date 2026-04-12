@@ -11,7 +11,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)  // (constant space for 26 letters)
 
-package HashMap;
+package Arrays;
 
 class Solution {
     public boolean isAnagram(String s, String t) {
