@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved:5
-* 🟢 Easy: 3
+* ✅ Total Problems Solved:6
+* 🟢 Easy: 4
 * 🟡 Medium: 2
 * 🔴 Hard: 0
 
@@ -24,6 +24,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 Arrays
 Two Pointer(TwoP.)
 Linked List (LL)
+String
 
 
 
@@ -37,6 +38,8 @@ Linked List (LL)
 | Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.  |
 | Day 3 | Delete Node in LL                             | Medium     | LL.    |
 | Day 4 | Valid Anagram                                 | Easy       | Arrays |
+| Day 5 | Length of Last Word                           | Easy       | String |
+
 
 
 
