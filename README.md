@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved:6
+* ✅ Total Problems Solved:7
 * 🟢 Easy: 4
-* 🟡 Medium: 2
+* 🟡 Medium: 3
 * 🔴 Hard: 0
 
 
@@ -39,6 +39,7 @@ String
 | Day 3 | Delete Node in LL                             | Medium     | LL.    |
 | Day 4 | Valid Anagram                                 | Easy       | Arrays |
 | Day 5 | Length of Last Word                           | Easy       | String |
+| Day 6 | Rotate Array                                  | Medium     | Arrays |
 
 
 
