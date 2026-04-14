@@ -14,17 +14,17 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved:7
+* ✅ Total Problems Solved: 7
 * 🟢 Easy: 4
 * 🟡 Medium: 3
 * 🔴 Hard: 0
 
 
 ## Topics Covered
-Arrays
-Two Pointer(TwoP.)
-Linked List (LL)
-String
+   Arrays  
+   Two Pointer(TwoP.)
+   Linked List (LL)
+   String
 
 
 
