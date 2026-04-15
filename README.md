@@ -21,25 +21,28 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 
 ## Topics Covered
-   Arrays  
-   Two Pointer(TwoP.)
-   Linked List (LL)
-   String
+* Arrays 
+* Two Pointer(TwoP.)
+* Linked List (LL) 
+* String 
+* Bitwise
 
 
 
 
 ## 📅 Daily Log
 
-|  Day  |                 Problem                       | Difficulty | Topic  |
-| ----- | --------------------------------------------- | ---------- | ------ |
-| Day 1 | Two Sum                                       | Easy       | Arrays |
-| Day 1 | Arrays - DS (HackerRank)                      | Easy       | Arrays |
-| Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.  |
-| Day 3 | Delete Node in LL                             | Medium     | LL.    |
-| Day 4 | Valid Anagram                                 | Easy       | Arrays |
-| Day 5 | Length of Last Word                           | Easy       | String |
-| Day 6 | Rotate Array                                  | Medium     | Arrays |
+|  Day  |                 Problem                       | Difficulty | Topic   |
+| ----- | --------------------------------------------- | ---------- | ------- |
+| Day 1 | Two Sum                                       | Easy       | Arrays  |
+| Day 1 | Arrays - DS (HackerRank)                      | Easy       | Arrays  |
+| Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.   |
+| Day 3 | Delete Node in LL                             | Medium     | LL.     |
+| Day 4 | Valid Anagram                                 | Easy       | Arrays  |
+| Day 5 | Length of Last Word                           | Easy       | String  |
+| Day 6 | Rotate Array                                  | Medium     | Arrays  |
+| Day 7 | Pow(x, n)                                     | Medium     | Bitwise |
+
 
 
 
