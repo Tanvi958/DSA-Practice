@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 9
+* ✅ Total Problems Solved: 10
 * 🟢 Easy: 5
-* 🟡 Medium: 4
+* 🟡 Medium: 5
 * 🔴 Hard: 0
 
 
@@ -43,6 +43,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 6 | Rotate Array                                  | Medium     | Arrays  |
 | Day 7 | Pow(x, n)                                     | Medium     | Bitwise |
 | Day 8 | Add Binary                                    | Easy       | String  |
+| Day 9 | Divide Two Integers                           | Medium     | Bitwise |
+
 
 
 
