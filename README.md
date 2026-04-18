@@ -14,10 +14,10 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 10
+* ✅ Total Problems Solved: 11
 * 🟢 Easy: 5
 * 🟡 Medium: 5
-* 🔴 Hard: 0
+* 🔴 Hard: 1
 
 
 ## Topics Covered
@@ -32,18 +32,20 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ## 📅 Daily Log
 
-|  Day  |                 Problem                       | Difficulty | Topic   |
-| ----- | --------------------------------------------- | ---------- | ------- |
-| Day 1 | Two Sum                                       | Easy       | Arrays  |
-| Day 1 | Arrays - DS (HackerRank)                      | Easy       | Arrays  |
-| Day 2 | Longest Substring Without Repeating Characters| Medium     | TwoP.   |
-| Day 3 | Delete Node in LL                             | Medium     | LL.     |
-| Day 4 | Valid Anagram                                 | Easy       | Arrays  |
-| Day 5 | Length of Last Word                           | Easy       | String  |
-| Day 6 | Rotate Array                                  | Medium     | Arrays  |
-| Day 7 | Pow(x, n)                                     | Medium     | Bitwise |
-| Day 8 | Add Binary                                    | Easy       | String  |
-| Day 9 | Divide Two Integers                           | Medium     | Bitwise |
+|  Day   |                 Problem                       | Difficulty | Topic   |
+| ------ | --------------------------------------------- | ---------- | ------- |
+| Day 1  | Two Sum                                       | Easy       | Arrays  |
+| Day 1  | Arrays - DS (HackerRank)                      | Easy       | Arrays  |
+| Day 2  | Longest Substring Without Repeating Characters| Medium     | TwoP.   |
+| Day 3  | Delete Node in LL                             | Medium     | LL.     |
+| Day 4  | Valid Anagram                                 | Easy       | Arrays  |
+| Day 5  | Length of Last Word                           | Easy       | String  |
+| Day 6  | Rotate Array                                  | Medium     | Arrays  |
+| Day 7  | Pow(x, n)                                     | Medium     | Bitwise |
+| Day 8  | Add Binary                                    | Easy       | String  |
+| Day 9  | Divide Two Integers                           | Medium     | Bitwise |
+| Day 10 | Longest Valid Parentheses                     | Hard       | String  |
+
 
 
 
