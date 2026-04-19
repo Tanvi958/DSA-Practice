@@ -26,6 +26,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Linked List (LL) 
 * String 
 * Bitwise
+* Stack
 
 
 
