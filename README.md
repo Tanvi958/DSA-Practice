@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 12
-* 🟢 Easy: 5
+* ✅ Total Problems Solved: 13
+* 🟢 Easy: 6
 * 🟡 Medium: 5
 * 🔴 Hard: 2
 
@@ -47,6 +47,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 9  | Divide Two Integers                           | Medium     | Bitwise |
 | Day 10 | Longest Valid Parentheses                     | Hard       | String  |
 | Day 11 |Largest Rectangle in Histogram                 | Hard       | Stack   |
+| Day 12 |Two Furthest Houses With Different Colors      | Easy       | Arrays  |
+
 
 
 
