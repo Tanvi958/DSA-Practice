@@ -14,10 +14,10 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 14
+* ✅ Total Problems Solved: 15
 * 🟢 Easy: 7
 * 🟡 Medium: 5
-* 🔴 Hard: 2
+* 🔴 Hard: 3
 
 
 ## Topics Covered
@@ -27,6 +27,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * String 
 * Bitwise
 * Stack
+* BackTracking(BackTra.)
 
 
 
@@ -49,6 +50,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 11 |Largest Rectangle in Histogram                 | Hard       | Stack   |
 | Day 12 |Two Furthest Houses With Different Colors      | Easy       | Arrays  |
 | Day 13 |Find the Index of the First Occurrence in Str  | Easy       | String  |
+| Day 14 |N-Quenn                                        | Hard       | BackTra.|
+
 
 
 
