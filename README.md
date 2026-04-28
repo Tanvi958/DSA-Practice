@@ -21,7 +21,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 
 ## Topics Covered
-* Arrays 
+* Arrays
 * Two Pointer(TwoP.)
 * Linked List (LL) 
 * String 
