@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 20
+* ✅ Total Problems Solved: 21
 * 🟢 Easy: 8
-* 🟡 Medium: 9
+* 🟡 Medium: 10
 * 🔴 Hard: 3
 
 
@@ -29,6 +29,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Stack
 * BackTracking(BackTra.)
 * No Data Structure(No)
+* Binary Tree (BT)
 
 
 
@@ -57,6 +58,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 17 | Add Two Numbers                               | Medium     | LL.     |
 | Day 18 | All A's Appears Before All B's                |Easy        | String  |
 | Day 19 | Reverse Integer                               |Medium      | No      |
+| Day 20 | Flatten Binary Tree to Linked List            |Medium      | BT      |
+
 
 
 
