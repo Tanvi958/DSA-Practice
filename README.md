@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 22
-* 🟢 Easy: 9
+* ✅ Total Problems Solved: 23
+* 🟢 Easy: 10
 * 🟡 Medium: 10
 * 🔴 Hard: 3
 
@@ -60,6 +60,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 19 | Reverse Integer                               |Medium      | No      |
 | Day 20 | Flatten Binary Tree to Linked List            |Medium      | BT      |
 | Day 21 | Valid Digit Number                            | Easy       | Arrays  |
+| Day 22 | Score Validator                               | Easy       | Arrays  |
+
 
 
 
