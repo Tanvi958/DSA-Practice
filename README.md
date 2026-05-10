@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 23
+* ✅ Total Problems Solved: 24
 * 🟢 Easy: 10
-* 🟡 Medium: 10
+* 🟡 Medium: 11
 * 🔴 Hard: 3
 
 
@@ -30,6 +30,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * BackTracking(BackTra.)
 * No Data Structure(No)
 * Binary Tree (BT)
+* HashSet
 
 
 
@@ -56,11 +57,13 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 15 | Reorder List                                  | Medium     | LL.     |
 | Day 16 | Multiply Strings                              | Medium     | String  |
 | Day 17 | Add Two Numbers                               | Medium     | LL.     |
-| Day 18 | All A's Appears Before All B's                |Easy        | String  |
-| Day 19 | Reverse Integer                               |Medium      | No      |
-| Day 20 | Flatten Binary Tree to Linked List            |Medium      | BT      |
+| Day 18 | All A's Appears Before All B's                | Easy       | String  |
+| Day 19 | Reverse Integer                               | Medium     | No      |
+| Day 20 | Flatten Binary Tree to Linked List            | Medium     | BT      |
 | Day 21 | Valid Digit Number                            | Easy       | Arrays  |
 | Day 22 | Score Validator                               | Easy       | Arrays  |
+| Day 23 | 4Sum                                          | Medium     | HashSet |
+
 
 
 
