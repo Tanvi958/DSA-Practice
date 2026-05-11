@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 24
-* 🟢 Easy: 10
+* ✅ Total Problems Solved: 25
+* 🟢 Easy: 11
 * 🟡 Medium: 11
 * 🔴 Hard: 3
 
@@ -63,6 +63,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 21 | Valid Digit Number                            | Easy       | Arrays  |
 | Day 22 | Score Validator                               | Easy       | Arrays  |
 | Day 23 | 4Sum                                          | Medium     | HashSet |
+| Day 24 | Separate the Digits in an Array               | Easy       | Arrays  |
 
 
 
