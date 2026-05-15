@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 28
+* ✅ Total Problems Solved: 29
 * 🟢 Easy: 14
-* 🟡 Medium: 11
+* 🟡 Medium: 12
 * 🔴 Hard: 3
 
 
@@ -67,6 +67,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 25 | Set Mismatch                                  | Easy       | Arrays  |
 | Day 26 | Find All Numbers Disappeared in an Array      | Easy       | Arrays  |
 | Day 27 | Numbers Are Smaller Than the Current Number   | Easy       | Arrays  |
+| Day 28 | Build an Array With Stack Operations          | Medium     | Stack   |
+
+
 
 
 
