@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 30
-* 🟢 Easy: 15
+* ✅ Total Problems Solved: 31
+* 🟢 Easy: 16
 * 🟡 Medium: 12
 * 🔴 Hard: 4
 
@@ -70,6 +70,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 28 | Build an Array With Stack Operations          | Medium     | Stack   |
 | Day 29 | Find Minimum in Rotated Sorted Array II       | Hard       | Arrays  |
 | Day 30 | Search Insert Position                        | Easy       | Arrays  |
+| Day 31 | Rotate String                                 | Easy       | String  |
+
 
 
 
