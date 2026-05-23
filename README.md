@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 33
-* 🟢 Easy: 17
+* ✅ Total Problems Solved: 34
+* 🟢 Easy: 18
 * 🟡 Medium: 13
 * 🔴 Hard: 4
 
@@ -73,6 +73,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 31 | Rotate String                                 | Easy       | String  |
 | Day 32 | Minimum Common Value                          | Easy       | Arrays  |
 | Day 33 | Populating Next Right Pointers in Each Node   | Medium     | BT      |
+| Day 34 | Minimum Swaps to Move Zeros to End            | Easy       | Arrays  |
+
 
 
 
