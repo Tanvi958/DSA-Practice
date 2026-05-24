@@ -74,6 +74,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 32 | Minimum Common Value                          | Easy       | Arrays  |
 | Day 33 | Populating Next Right Pointers in Each Node   | Medium     | BT      |
 | Day 34 | Minimum Swaps to Move Zeros to End            | Easy       | Arrays  |
+| Day 35 | Valid Palindrome                              | Easy       | String  |
+
 
 
 
