@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 36
-* 🟢 Easy: 20
+* ✅ Total Problems Solved: 37
+* 🟢 Easy: 21
 * 🟡 Medium: 13
 * 🔴 Hard: 4
 
@@ -76,6 +76,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 34 | Minimum Swaps to Move Zeros to End            | Easy       | Arrays  |
 | Day 35 | Valid Palindrome                              | Easy       | String  |
 | Day 36 | Excel Sheet Column Title                      | Easy       | String  |
+| Day 37 | Minimum Element After Replace With Digit Sum  | Easy       | Arrays  |
+
 
 
 
