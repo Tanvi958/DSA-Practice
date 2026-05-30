@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 37
-* 🟢 Easy: 21
+* ✅ Total Problems Solved: 38
+* 🟢 Easy: 22
 * 🟡 Medium: 13
 * 🔴 Hard: 4
 
@@ -31,6 +31,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * No Data Structure(No)
 * Binary Tree (BT)
 * HashSet
+* Dynamic Programming (DP)
 
 
 
@@ -77,6 +78,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 35 | Valid Palindrome                              | Easy       | String  |
 | Day 36 | Excel Sheet Column Title                      | Easy       | String  |
 | Day 37 | Minimum Element After Replace With Digit Sum  | Easy       | Arrays  |
+| Day 38 | Climbing Stairs                               | Easy       | DP      |
+
 
 
 
