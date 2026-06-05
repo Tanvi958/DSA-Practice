@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 40
-* 🟢 Easy: 24
+* ✅ Total Problems Solved: 41
+* 🟢 Easy: 25
 * 🟡 Medium: 13
 * 🔴 Hard: 4
 
@@ -81,6 +81,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 38 | Climbing Stairs                               | Easy       | DP      |
 | Day 39 | Binary Tree Paths                             | Easy       | BT      |
 | Day 40 | Sum of Left Leaves                            | Easy       | BT      |
+| Day 41 | Remove All Adjacent Duplicates In String      | Easy       | Stack   |
+
 
 
 
