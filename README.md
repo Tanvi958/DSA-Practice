@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 42
+* ✅ Total Problems Solved: 43
 * 🟢 Easy: 26
-* 🟡 Medium: 13
+* 🟡 Medium: 14
 * 🔴 Hard: 4
 
 
@@ -83,6 +83,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 40 | Sum of Left Leaves                            | Easy       | BT      |
 | Day 41 | Remove All Adjacent Duplicates In String      | Easy       | Stack   |
 | Day 42 | Summary Ranges                                | Easy       | Arrays  |
+| Day 43 | Partition Array According to Given Pivot      | Medium     | Arrays  |
+
 
 
 
