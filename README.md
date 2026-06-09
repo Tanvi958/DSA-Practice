@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 43
-* 🟢 Easy: 26
+* ✅ Total Problems Solved: 44
+* 🟢 Easy: 27
 * 🟡 Medium: 14
 * 🔴 Hard: 4
 
@@ -28,7 +28,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Bitwise
 * Stack
 * BackTracking(BackTra.)
-* No Data Structure(No)
+* No Data Structure(SP)
 * Binary Tree (BT)
 * HashSet
 * Dynamic Programming (DP)
@@ -59,7 +59,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 16 | Multiply Strings                              | Medium     | String  |
 | Day 17 | Add Two Numbers                               | Medium     | LL.     |
 | Day 18 | All A's Appears Before All B's                | Easy       | String  |
-| Day 19 | Reverse Integer                               | Medium     | No      |
+| Day 19 | Reverse Integer                               | Medium     | SP      |
 | Day 20 | Flatten Binary Tree to Linked List            | Medium     | BT      |
 | Day 21 | Valid Digit Number                            | Easy       | Arrays  |
 | Day 22 | Score Validator                               | Easy       | Arrays  |
@@ -84,6 +84,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 41 | Remove All Adjacent Duplicates In String      | Easy       | Stack   |
 | Day 42 | Summary Ranges                                | Easy       | Arrays  |
 | Day 43 | Partition Array According to Given Pivot      | Medium     | Arrays  |
+| Day 44 | Power of Three                                | Easy       | SP      |
+
 
 
 
