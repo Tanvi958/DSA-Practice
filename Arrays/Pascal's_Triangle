@@ -1,0 +1,76 @@
+// Problem 118: Pascal's Triangle
+// Platform: LeetCode
+// Difficulty: Easy
+
+// Approach:
+// We build Pascal's Triangle row by row.
+//
+// Key Observation:
+// - The first and last element of every row is 1.
+// - Any middle element is the sum of the two
+//   elements directly above it in the previous row.
+//
+// Formula:
+// triangle[i][j] = triangle[i-1][j-1] + triangle[i-1][j]
+//
+// Steps:
+// 1. Create an empty list to store all rows.
+// 2. For each row i:
+//      - Create a new row.
+//      - Add elements from index 0 to i.
+// 3. If the element is the first or last in the row:
+//      - Add 1.
+// 4. Otherwise:
+//      - Add the sum of the two corresponding
+//        elements from the previous row.
+// 5. Add the completed row to the result.
+// 6. Return the final triangle.
+//
+// Example:
+// Input: numRows = 5
+//
+// Output:
+// [
+//   [1],
+//   [1,1],
+//   [1,2,1],
+//   [1,3,3,1],
+//   [1,4,6,4,1]
+// ]
+//
+// Time Complexity: O(numRows²)
+// Space Complexity: O(numRows²)
+
+class Solution {
+
+    public List<List<Integer>> generate(int numRows) {
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        // Generate each row
+        for (int i = 0; i < numRows; i++) {
+
+            List<Integer> row = new ArrayList<>();
+
+            for (int j = 0; j <= i; j++) {
+
+                // First and last elements are always 1
+                if (j == 0 || j == i) {
+
+                    row.add(1);
+
+                } else {
+
+                    row.add(
+                        result.get(i - 1).get(j - 1)
+                        + result.get(i - 1).get(j)
+                    );
+                }
+            }
+
+            result.add(row);
+        }
+
+        return result;
+    }
+}
