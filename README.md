@@ -87,6 +87,12 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 44 | Power of Three                                | Easy       | SP      |
 | Day 45 | Peak Index in a Mountain Array                | Medium     | Arrays  |
 | Day 46 | Pascal's Triangle                             | Easy       | Arrays  |
+| Day 47 | Delete the Middle Node of a Linked List       | Medium     | LL.     |
+| Day 48 | Process String with Special Operations I      | Medium     | String  |
+
+
+
+
 
 
 
