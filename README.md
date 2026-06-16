@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 47
+* ✅ Total Problems Solved: 48
 * 🟢 Easy: 28
-* 🟡 Medium: 16
+* 🟡 Medium: 17
 * 🔴 Hard: 4
 
 
@@ -86,6 +86,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 43 | Partition Array According to Given Pivot      | Medium     | Arrays  |
 | Day 44 | Power of Three                                | Easy       | SP      |
 | Day 45 | Peak Index in a Mountain Array                | Medium     | Arrays  |
+| Day 46 | Pascal's Triangle                             | Easy       | Arrays  |
+
 
 
 
