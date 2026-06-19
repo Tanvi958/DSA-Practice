@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 48
+* ✅ Total Problems Solved: 49
 * 🟢 Easy: 28
-* 🟡 Medium: 17
+* 🟡 Medium: 18
 * 🔴 Hard: 4
 
 
@@ -89,6 +89,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 46 | Pascal's Triangle                             | Easy       | Arrays  |
 | Day 47 | Delete the Middle Node of a Linked List       | Medium     | LL.     |
 | Day 48 | Process String with Special Operations I      | Medium     | String  |
+| Day 49 | Decode String                                 | Medium     | Stack   |
+
 
 
 
