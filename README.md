@@ -90,6 +90,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 47 | Delete the Middle Node of a Linked List       | Medium     | LL.     |
 | Day 48 | Process String with Special Operations I      | Medium     | String  |
 | Day 49 | Decode String                                 | Medium     | Stack   |
+| Day 50 | First Missing Positive                        | Hard       | Arrays  |
+
 
 
 
