@@ -14,8 +14,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 51
-* 🟢 Easy: 29
+* ✅ Total Problems Solved: 52
+* 🟢 Easy: 30
 * 🟡 Medium: 18
 * 🔴 Hard: 5
 
@@ -92,6 +92,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 49 | Decode String                                 | Medium     | Stack   |
 | Day 50 | First Missing Positive                        | Hard       | Arrays  |
 | Day 51 | Maximum Number of Balloons                    | Easy       | Arrays  |
+| Day 52 | Happy Number                                  | Easy       | HashSet |
+
 
 
 
