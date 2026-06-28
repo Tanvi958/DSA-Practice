@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 53
+* ✅ Total Problems Solved: 54
 * 🟢 Easy: 31
-* 🟡 Medium: 18
+* 🟡 Medium: 19
 * 🔴 Hard: 5
 
 
@@ -94,6 +94,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 51 | Maximum Number of Balloons                    | Easy       | Arrays  |
 | Day 52 | Happy Number                                  | Easy       | HashSet |
 | Day 53 | Minimum Absolute Difference in BST            | Easy       | BT      |
+| Day 54 | Maximum Element After Decreasing and Rearran. | Medium     | Arrays  |
+
 
 
 
