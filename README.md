@@ -96,6 +96,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 53 | Minimum Absolute Difference in BST            | Easy       | BT      |
 | Day 54 | Maximum Element After Decreasing and Rearran. | Medium     | Arrays  |
 | Day 55 | Number of Strings That Appear as Sub. in Word | Easy       | String  |
+| Day 56 | Two Sum II - Input Array Is Sorted            | Medium     | Arrays  |
+
 
 
 
