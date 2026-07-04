@@ -98,6 +98,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 55 | Number of Strings That Appear as Sub. in Word | Easy       | String  |
 | Day 56 | Two Sum II - Input Array Is Sorted            | Medium     | Arrays  |
 | Day 57 | H-Index                                       | Medium     | Arrays  |
+| Day 58 | Unique Middle Element                         | Easy       | Arrays  |
+
 
 
 
