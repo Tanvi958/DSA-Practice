@@ -14,9 +14,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 55
+* ✅ Total Problems Solved: 56
 * 🟢 Easy: 32
-* 🟡 Medium: 19
+* 🟡 Medium: 20
 * 🔴 Hard: 5
 
 
@@ -99,6 +99,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 56 | Two Sum II - Input Array Is Sorted            | Medium     | Arrays  |
 | Day 57 | H-Index                                       | Medium     | Arrays  |
 | Day 58 | Unique Middle Element                         | Easy       | Arrays  |
+| Day 59 | Triangle                                      | Medium     | DP      |
+
 
 
 
