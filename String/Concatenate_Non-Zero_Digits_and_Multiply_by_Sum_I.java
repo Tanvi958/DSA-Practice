@@ -1,6 +1,7 @@
 // Problem 3754: Concatenate Non-Zero Digits and Multiply by Sum I
 // Platform: LeetCode
-//
+// Difficulty:Easy
+
 // Approach:
 // We extract each digit of the number and:
 // 1. Calculate the sum of all digits.
@@ -31,10 +32,9 @@
 // Output:
 // 123 × 6 = 738
 //
-// Time Complexity: O(d)
-// d = number of digits in n
-//
-// Space Complexity: O(1)
+// Time complexity: O(logn).
+
+// Space complexity: O(logn).
 
 class Solution {
 
