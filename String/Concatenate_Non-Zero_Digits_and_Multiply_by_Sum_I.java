@@ -1,4 +1,4 @@
-// Problem: Sum and Multiply
+// Problem 3754: Concatenate Non-Zero Digits and Multiply by Sum I
 // Platform: LeetCode
 //
 // Approach:
