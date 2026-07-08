@@ -9,14 +9,12 @@ I am consistently solving problems to improve my problem-solving skills and prep
 ## Platform
 
 * LeetCode
-* HackerRank
-
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 57
+* ✅ Total Problems Solved: 58
 * 🟢 Easy: 33
-* 🟡 Medium: 20
+* 🟡 Medium: 21
 * 🔴 Hard: 5
 
 
@@ -101,6 +99,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 58 | Unique Middle Element                         | Easy       | Arrays  |
 | Day 59 | Triangle                                      | Medium     | DP      |
 | Day 60 | Concatenate Non-Zero Dig. and Multi. by Sum I | Easy       | String  |
+| Day 61 | Construct Binary Search Tree from Preorder    | Medium     | BT      |
+
 
 
 
