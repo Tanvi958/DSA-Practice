@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 58
+* ✅ Total Problems Solved: 59
 * 🟢 Easy: 33
-* 🟡 Medium: 21
+* 🟡 Medium: 22
 * 🔴 Hard: 5
 
 
@@ -30,6 +30,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Binary Tree (BT)
 * HashSet
 * Dynamic Programming (DP)
+* Greedy Approach (Greedy)
 
 
 
@@ -100,6 +101,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 59 | Triangle                                      | Medium     | DP      |
 | Day 60 | Concatenate Non-Zero Dig. and Multi. by Sum I | Easy       | String  |
 | Day 61 | Construct Binary Search Tree from Preorder    | Medium     | BT      |
+| Day 62 | Best Time to Buy and Sell Stock II            | Medium     | Greedy  |
+
 
 
 
