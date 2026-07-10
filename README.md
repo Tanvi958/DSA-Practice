@@ -15,7 +15,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * ✅ Total Problems Solved: 59
 * 🟢 Easy: 33
 * 🟡 Medium: 22
-* 🔴 Hard: 5
+* 🔴 Hard: 6
 
 
 ## Topics Covered
@@ -102,6 +102,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 60 | Concatenate Non-Zero Dig. and Multi. by Sum I | Easy       | String  |
 | Day 61 | Construct Binary Search Tree from Preorder    | Medium     | BT      |
 | Day 62 | Best Time to Buy and Sell Stock II            | Medium     | Greedy  |
+| Day 63 | Best Time to Buy and Sell Stock III           | Hard       | DP      |
+
 
 
 
