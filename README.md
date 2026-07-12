@@ -13,7 +13,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 ##  Progress Tracker
 
 * ✅ Total Problems Solved: 59
-* 🟢 Easy: 34
+* 🟢 Easy: 35
 * 🟡 Medium: 22
 * 🔴 Hard: 6
 
@@ -105,6 +105,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 62 | Best Time to Buy and Sell Stock II            | Medium     | Greedy  |
 | Day 63 | Best Time to Buy and Sell Stock III           | Hard       | DP      |
 | Day 64 | Third Maximum Number                          | Easy       | PQ      |
+| Day 65 | Intersection of Two Arrays                    | Easy       | HashSet |
+
 
 
 
