@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 67
-* 🟢 Easy: 36
+* ✅ Total Problems Solved: 68
+* 🟢 Easy: 37
 * 🟡 Medium: 22
 * 🔴 Hard: 6
 
@@ -108,6 +108,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 64 | Third Maximum Number                          | Easy       | PQ      |
 | Day 65 | Intersection of Two Arrays                    | Easy       | HashSet |
 | Day 66 | Rank Transform of an Array                    | Easy       | HashMap |
+| Day 67 | Excel Sheet Column Number                     | Easy       | String  |
+
 
 
 
