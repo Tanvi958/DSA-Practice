@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 70
-* 🟢 Easy: 39
+* ✅ Total Problems Solved: 71
+* 🟢 Easy: 40
 * 🟡 Medium: 23
 * 🔴 Hard: 6
 
@@ -112,6 +112,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 68 | GCD of Odd and Even Sums                      | Easy       | SP      |
 | Day 69 | Contains Duplicate                            | Easy       | Arrays  |
 | Day 70 | Sort Colors                                   | Medium     | Arrays  |
+| Day 71 | Find Greatest Common Divisor of Array         | Easy       | Arrays  |
 
 
 
