@@ -213,3 +213,19 @@ This repository reflects my consistency, problem-solving ability, and dedication
 * GitHub: https://github.com/Tanvi958
 * LinkedIn: https://www.linkedin.com/in/tanvi-nishad-b42563291/?trk=PROFILE_DROP_DOWN
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+<!---LeetCode Topics End-->
