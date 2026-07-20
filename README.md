@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 72
-* 🟢 Easy: 40
+* ✅ Total Problems Solved: 73
+* 🟢 Easy: 41
 * 🟡 Medium: 24
 * 🔴 Hard: 6
 
@@ -114,6 +114,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 70 | Sort Colors                                   | Medium     | Arrays  |
 | Day 71 | Find Greatest Common Divisor of Array         | Easy       | Arrays  |
 | Day 72 |  Smallest Subsequence of Distinct Characters  | Medium     | Stack   |
+| Day 73 | Shift 2D Grid                                 | Easy       | Arrays  |
+
 
 
 
