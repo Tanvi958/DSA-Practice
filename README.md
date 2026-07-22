@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 74
+* ✅ Total Problems Solved: 75
 * 🟢 Easy: 41
-* 🟡 Medium: 25
+* 🟡 Medium: 26
 * 🔴 Hard: 6
 
 
@@ -116,6 +116,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 72 |  Smallest Subsequence of Distinct Characters  | Medium     | Stack   |
 | Day 73 | Shift 2D Grid                                 | Easy       | Arrays  |
 | Day 74 | Find Peak Element                             | Medium     | Arrays  |
+| Day 75 | Find the Duplicate Number                     | Medium     | Arrays  |
+
 
 
 
