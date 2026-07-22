@@ -227,6 +227,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -265,4 +266,13 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
