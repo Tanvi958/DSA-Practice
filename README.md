@@ -117,6 +117,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 73 | Shift 2D Grid                                 | Easy       | Arrays  |
 | Day 74 | Find Peak Element                             | Medium     | Arrays  |
 | Day 75 | Find the Duplicate Number                     | Medium     | Arrays  |
+| Day 76 | Middle of LInked List                         | Medium     | LL.     |
 
 
 
