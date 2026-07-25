@@ -239,6 +239,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanvi958/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -285,4 +286,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanvi958/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
