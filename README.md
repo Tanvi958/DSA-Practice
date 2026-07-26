@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 76
-* 🟢 Easy: 42
+* ✅ Total Problems Solved: 77
+* 🟢 Easy: 43
 * 🟡 Medium: 26
 * 🔴 Hard: 6
 
@@ -119,6 +119,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 75 | Find the Duplicate Number                     | Medium     | Arrays  |
 | Day 76 | Middle of LInked List                         | Medium     | LL.     |
 | Day 77 | Maximum Product of Two Digits                 | Easy       | PQ      |
+| Day 78 | Maximum Product of Three Numbers              | Easy       | SP      |
+
 
 
 
