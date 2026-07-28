@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 78
+* ✅ Total Problems Solved: 79
 * 🟢 Easy: 44
-* 🟡 Medium: 26
+* 🟡 Medium: 27
 * 🔴 Hard: 6
 
 
@@ -121,6 +121,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 77 | Maximum Product of Two Digits                 | Easy       | PQ      |
 | Day 78 | Maximum Product of Three Numbers              | Easy       | SP      |
 | Day 79 | Maximum Product of Two Elements in an Array   | Easy       | PQ      |
+| Day 80 | Binary Tree Right Side View                   | Medium     | BT      |
+
 
 
 
