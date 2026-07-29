@@ -256,6 +256,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanvi958/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -291,6 +292,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -298,6 +300,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanvi958/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -321,4 +324,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
