@@ -12,7 +12,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 80
+* ✅ Total Problems Solved: 81
 * 🟢 Easy: 46
 * 🟡 Medium: 27
 * 🔴 Hard: 6
