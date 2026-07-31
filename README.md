@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 81
+* ✅ Total Problems Solved: 82
 * 🟢 Easy: 46
-* 🟡 Medium: 27
+* 🟡 Medium: 28
 * 🔴 Hard: 6
 
 
@@ -124,6 +124,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 80 | Binary Tree Right Side View                   | Medium     | BT      |
 | Day 81 | Find the Difference                           | Easy       | String  |
 | Day 82 | Minimum Number of Pushes to type Word I       | Easy       | SP      |
+| Day 83 | Minimum Number of Pushes to type Word II      | Medium     | Arrays  |
+
 
 
 
