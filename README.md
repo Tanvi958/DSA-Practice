@@ -248,6 +248,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -266,6 +267,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanvi958/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +302,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
