@@ -255,6 +255,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +326,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanvi958/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -350,6 +352,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
