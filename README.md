@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 85
-* 🟢 Easy: 47
+* ✅ Total Problems Solved: 86
+* 🟢 Easy: 48
 * 🟡 Medium: 29
 * 🔴 Hard: 6
 
@@ -127,6 +127,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 83 | Minimum Number of Pushes to type Word II      | Medium     | Arrays  |
 | Day 84 | Minimum Initial Strength to Defeat All Monster| Medium     | Arrays  |
 | Day 85 | Shortest Distance to a Character              | Easy       | String  |
+| Day 86 | Find Missing Element                          | Easy       | Arrays  |
+
 
 
 
