@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 86
+* ✅ Total Problems Solved: 87
 * 🟢 Easy: 48
-* 🟡 Medium: 29
+* 🟡 Medium: 30
 * 🔴 Hard: 6
 
 
@@ -33,6 +33,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Greedy Approach (Greedy)
 * Priority Queue (PQ)
 * HashMap
+* Graph
 
 
 
@@ -128,6 +129,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 84 | Minimum Initial Strength to Defeat All Monster| Medium     | Arrays  |
 | Day 85 | Shortest Distance to a Character              | Easy       | String  |
 | Day 86 | Find Missing Element                          | Easy       | Arrays  |
+| Day 87 | Course Schedule                               | Medium     | Graph   |
+
 
 
 
