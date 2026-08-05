@@ -341,10 +341,12 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,4 +361,16 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
