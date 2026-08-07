@@ -342,20 +342,24 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Hash Table
 |  |
