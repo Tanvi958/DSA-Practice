@@ -327,6 +327,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -389,4 +390,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
