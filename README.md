@@ -132,6 +132,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 87 | Course Schedule                               | Medium     | Graph   |
 | Day 88 | Smallest Divisible Digit Product I            | Easy       | SP      |
 | Day 89 | Maximum Depth of Binary Tree                  | Easy       | BT      |
+| Day 90 | Isomorphic Strings                            | Easy       | String  |
+
 
 
 
