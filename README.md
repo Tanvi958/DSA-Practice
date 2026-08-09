@@ -280,6 +280,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanvi958/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +368,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
