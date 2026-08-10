@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 90
-* 🟢 Easy: 51
+* ✅ Total Problems Solved: 91
+* 🟢 Easy: 52
 * 🟡 Medium: 30
 * 🔴 Hard: 6
 
@@ -34,6 +34,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 * Priority Queue (PQ)
 * HashMap
 * Graph
+* Sliding Window(SW)
 
 
 
@@ -133,6 +134,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 88 | Smallest Divisible Digit Product I            | Easy       | SP      |
 | Day 89 | Maximum Depth of Binary Tree                  | Easy       | BT      |
 | Day 90 | Isomorphic Strings                            | Easy       | String  |
+| Day 91 | Contains Duplicate                            | Easy       | SW      |
+
 
 
 
