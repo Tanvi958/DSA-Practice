@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 91
-* 🟢 Easy: 52
+* ✅ Total Problems Solved: 92
+* 🟢 Easy: 53
 * 🟡 Medium: 30
 * 🔴 Hard: 6
 
@@ -135,6 +135,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 89 | Maximum Depth of Binary Tree                  | Easy       | BT      |
 | Day 90 | Isomorphic Strings                            | Easy       | String  |
 | Day 91 | Contains Duplicate                            | Easy       | SW      |
+| Day 92 | Smallest Missing Integer <= Sequ Prefix Sum   | Easy       | HashSet |
+
 
 
 
