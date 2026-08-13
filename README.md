@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 92
-* 🟢 Easy: 53
+* ✅ Total Problems Solved: 93
+* 🟢 Easy: 54
 * 🟡 Medium: 30
 * 🔴 Hard: 6
 
@@ -136,6 +136,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 90 | Isomorphic Strings                            | Easy       | String  |
 | Day 91 | Contains Duplicate                            | Easy       | SW      |
 | Day 92 | Smallest Missing Integer <= Sequ Prefix Sum   | Easy       | HashSet |
+| Day 93 | Can Place Flowers                             | Easy       | Arrays  |
 
 
 
