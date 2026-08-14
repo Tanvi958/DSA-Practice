@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 93
+* ✅ Total Problems Solved: 94
 * 🟢 Easy: 54
-* 🟡 Medium: 30
+* 🟡 Medium: 31
 * 🔴 Hard: 6
 
 
@@ -137,6 +137,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 91 | Contains Duplicate                            | Easy       | SW      |
 | Day 92 | Smallest Missing Integer <= Sequ Prefix Sum   | Easy       | HashSet |
 | Day 93 | Can Place Flowers                             | Easy       | Arrays  |
+| Day 94 | Count Substrings Start and End with Given Char| Medium     | String  |
+
 
 
 
