@@ -427,4 +427,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanvi958/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/Tanvi958/DSA-Practice/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
