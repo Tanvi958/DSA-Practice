@@ -12,8 +12,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 95
-* 🟢 Easy: 55
+* ✅ Total Problems Solved: 96
+* 🟢 Easy: 56
 * 🟡 Medium: 31
 * 🔴 Hard: 6
 
@@ -139,6 +139,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 93 | Can Place Flowers                             | Easy       | Arrays  |
 | Day 94 | Count Substrings Start and End with Given Char| Medium     | String  |
 | Day 95 | Remove Element                                | Easy       | Arrays  |
+| Day 96 | Distribute Elements Into Two Arrays I         | Easy       | Arrays  |
+
 
 
 
