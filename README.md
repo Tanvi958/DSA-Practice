@@ -294,6 +294,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Tanvi958/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanvi958/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanvi958/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
