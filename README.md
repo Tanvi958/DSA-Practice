@@ -140,6 +140,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 94 | Count Substrings Start and End with Given Char| Medium     | String  |
 | Day 95 | Remove Element                                | Easy       | Arrays  |
 | Day 96 | Distribute Elements Into Two Arrays I         | Easy       | Arrays  |
+| Day 97 | Group Anagrams                                | Medium     | HashMap |
+
 
 
 
