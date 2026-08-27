@@ -271,6 +271,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanvi958/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanvi958/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -305,6 +306,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
@@ -363,6 +365,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -400,6 +403,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
