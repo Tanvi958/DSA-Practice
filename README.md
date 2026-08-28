@@ -307,6 +307,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -350,6 +351,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -466,4 +468,12 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvi958/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
