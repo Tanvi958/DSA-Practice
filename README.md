@@ -12,9 +12,9 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ##  Progress Tracker
 
-* ✅ Total Problems Solved: 96
+* ✅ Total Problems Solved: 98
 * 🟢 Easy: 56
-* 🟡 Medium: 31
+* 🟡 Medium: 33
 * 🔴 Hard: 6
 
 
@@ -141,6 +141,8 @@ I am consistently solving problems to improve my problem-solving skills and prep
 | Day 95 | Remove Element                                | Easy       | Arrays  |
 | Day 96 | Distribute Elements Into Two Arrays I         | Easy       | Arrays  |
 | Day 97 | Group Anagrams                                | Medium     | HashMap |
+| Day 98 | Longest Palindromic Substring                 | Medium     | String  |
+
 
 
 
