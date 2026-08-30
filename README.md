@@ -450,6 +450,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0601-human-traffic-of-stadium](https://github.com/Tanvi958/DSA-Practice/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tanvi958/DSA-Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 ## Union-Find
 |  |
 | ------- |
