@@ -278,6 +278,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0506-relative-ranks](https://github.com/Tanvi958/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanvi958/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Tanvi958/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -373,6 +374,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Tanvi958/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -382,6 +384,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Tanvi958/DSA-Practice/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
