@@ -278,6 +278,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0506-relative-ranks](https://github.com/Tanvi958/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanvi958/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Tanvi958/DSA-Practice/tree/master/0605-can-place-flowers) |
@@ -296,6 +297,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -416,6 +418,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanvi958/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
