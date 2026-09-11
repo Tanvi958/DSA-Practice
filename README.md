@@ -290,6 +290,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanvi958/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanvi958/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -421,6 +422,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanvi958/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -445,6 +447,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -486,4 +489,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
