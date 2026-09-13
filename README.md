@@ -397,12 +397,14 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -414,6 +416,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -495,4 +498,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
