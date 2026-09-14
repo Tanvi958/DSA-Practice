@@ -301,6 +301,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0367-valid-perfect-square](https://github.com/Tanvi958/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Tanvi958/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Tanvi958/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -502,4 +503,8 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Tanvi958/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
