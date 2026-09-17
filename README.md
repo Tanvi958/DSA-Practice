@@ -275,6 +275,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanvi958/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Tanvi958/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Tanvi958/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -344,6 +345,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tanvi958/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -422,6 +424,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Tanvi958/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
