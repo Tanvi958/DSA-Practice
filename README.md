@@ -318,6 +318,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Tanvi958/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Tanvi958/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Tanvi958/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tanvi958/DSA-Practice/tree/master/0205-isomorphic-strings) |
