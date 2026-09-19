@@ -400,12 +400,14 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -413,12 +415,14 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tanvi958/DSA-Practice/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Hash Table
