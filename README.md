@@ -377,6 +377,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0707-design-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -394,6 +395,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Tanvi958/DSA-Practice/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
@@ -470,6 +472,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanvi958/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 ## Database
 |  |
 | ------- |
@@ -517,4 +520,12 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Tanvi958/DSA-Practice/tree/master/0836-rectangle-overlap) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
