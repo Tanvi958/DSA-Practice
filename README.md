@@ -378,6 +378,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tanvi958/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0707-design-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanvi958/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -511,6 +512,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Tanvi958/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
