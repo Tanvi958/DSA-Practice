@@ -287,6 +287,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvi958/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -303,6 +304,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Tanvi958/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Tanvi958/DSA-Practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -414,6 +416,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -436,6 +439,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tanvi958/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanvi958/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -482,6 +486,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanvi958/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Tanvi958/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Database
 |  |
 | ------- |
@@ -492,6 +497,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvi958/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -514,6 +520,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Tanvi958/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -527,6 +534,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -545,4 +553,16 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0678-valid-parenthesis-string](https://github.com/Tanvi958/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Tanvi958/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanvi958/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
