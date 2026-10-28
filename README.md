@@ -296,6 +296,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanvi958/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanvi958/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +359,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanvi958/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -384,6 +386,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0287-find-the-duplicate-number](https://github.com/Tanvi958/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Tanvi958/DSA-Practice/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanvi958/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -521,6 +524,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Tanvi958/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
