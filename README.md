@@ -293,6 +293,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanvi958/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanvi958/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanvi958/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -524,6 +525,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Tanvi958/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3693-climbing-stairs-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
