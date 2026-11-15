@@ -287,6 +287,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0821-shortest-distance-to-a-character](https://github.com/Tanvi958/DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-shift-2d-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvi958/DSA-Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -307,6 +308,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | [0447-number-of-boomerangs](https://github.com/Tanvi958/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanvi958/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Tanvi958/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanvi958/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanvi958/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -525,6 +527,7 @@ This repository reflects my consistency, problem-solving ability, and dedication
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanvi958/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Tanvi958/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanvi958/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3693-climbing-stairs-ii](https://github.com/Tanvi958/DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tanvi958/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -579,5 +582,6 @@ This repository reflects my consistency, problem-solving ability, and dedication
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanvi958/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanvi958/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
